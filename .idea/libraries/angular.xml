@@ -2,11 +2,11 @@
   <library name="angular" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$USER_HOME$/Documents/myknow/New folder/angularjs/angular.js" />
+        <item url="file://$USER_HOME$/Downloads/angular-1.4.3" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/Documents/myknow/New folder/angularjs/angular.js" />
+      <root url="file://$USER_HOME$/Downloads/angular-1.4.3" />
     </CLASSES>
     <SOURCES />
   </library>
