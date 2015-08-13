@@ -34,11 +34,8 @@ angular.module('app',['ui.router']).
     controller('SecondCtrl',function SecondCtrl(greeting)
     {
         var second=this;
-        //did this to handle js scoping issues
-        console.log(greeting);
+        //did this to handle js scoping issue
         second.greeting=greeting;
-        console.log(second.greeting);
-        console.log(second.greeting.message);
 
     }
 )
